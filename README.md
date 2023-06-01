@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **xianren68/xianren68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi,👋 I'm 闲人
+
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianren68&show_icons=true&theme=radical)
